@@ -1,0 +1,1 @@
+print 'sharath'[::-1]
